@@ -115,7 +115,7 @@ Given the time expectations of this exercise, we don't expect anyone to submit a
 
 It would be great for example if you'd write some unit test / simple frontend demostrating calls to your fresh APIs.
 
-  
+API documents can be accessed using swagger url: http://localhost:3001/api-docs/ once the server is up and running
 
 ## Submitting the Assignment
 
